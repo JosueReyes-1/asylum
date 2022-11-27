@@ -3,6 +3,8 @@
     font-family: letraterror;
     src: url('../Gloomy\ Things.otf');
 }
+
+
 /* efecto fondo */
 body {
     background-color: #111111;
@@ -77,6 +79,9 @@ a{
 p{
     font-family: 'Jura', sans-serif;
 }
+.letra{
+    font-family: 'Jura', sans-serif;
+}
 .titulo{
     font-family: letraterror;
 }
@@ -90,3 +95,5 @@ p{
 .container-bg{
     background-color: #1a1b1f;
 }
+
+/* Cards */
