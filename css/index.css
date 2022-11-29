@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Jura&display=swap');
+
 @font-face {
     font-family: letraterror;
     src: url('../Gloomy\ Things.otf');
@@ -72,28 +73,66 @@ body {
         transform: translate(5%, 0)
     }
 }
+
 /* nav */
-a{
+a {
     font-family: 'Jura', sans-serif;
 }
-p{
+
+p {
     font-family: 'Jura', sans-serif;
 }
-.letra{
+
+.letra {
     font-family: 'Jura', sans-serif;
 }
-.titulo{
+
+.titulo {
     font-family: letraterror;
 }
+
+.navbar-nav .nav-link {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(80, 2, 2);
+    line-height: 46px;
+    padding: 0 0 6px;
+}
+
+.navbar-nav .nav-link::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: -100%;
+    width: 100%;
+    height: 3px;
+    background: rgb(117, 3, 3);
+    transition: left .8s;
+}
+
+.navbar-nav .nav-link:hover::after {
+    left: 0;
+}
+
 /* header */
 
-.video-header{
+.video-header {
     position: fixed;
     z-index: -1;
 }
 
-.container-bg{
+.container-bg {
     background-color: #1a1b1f;
 }
 
 /* Cards */
+.img-2 {
+    width: 80%;
+    height: 50vh;
+}
+.img-pre{
+    height: 70vh;
+    object-fit: cover;
+}
