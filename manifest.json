@@ -1,0 +1,30 @@
+{  
+    "name":"ASYLUM",
+    "short_name":"ASM",
+    "description":"ASYLUM es un videojuego de terror desarrollado en UnrealEngine 5",
+    "lang":"es-ES",
+    "dir":"ltr",
+    "start_url":"http://127.0.0.1:5501/index.html",
+    "display":"minimal-ui",
+    "orientation":"vertical",
+    "background_color":"black",
+    "theme_color":"black",
+    "scope": "http://127.0.0.1:5501",
+    "icons":[  
+       {  
+          "src":"https://res.cloudinary.com/dhysrnfsr/image/upload/v1667009284/545-5451262_asylums-logo-emblem-hd-png-download_oz7ypq.png",
+          "sizes":"512x512",
+          "type":"image/png"
+       },
+       {  
+            "src":"https://res.cloudinary.com/dhysrnfsr/image/upload/v1667009411/545-5451262_asylums-logo-emblem-hd-png-download_ilkyca.png",
+            "sizes":"256x256",
+            "type":"image/png"
+        },
+        {  
+            "src":"https://res.cloudinary.com/dhysrnfsr/image/upload/v1667009411/545-5451262_asylums-logo-emblem-hd-png-download_ilkyca.png",
+            "sizes":"128x128",
+            "type":"image/png"
+        }
+    ]
+ }
