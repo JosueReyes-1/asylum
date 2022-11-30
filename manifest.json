@@ -4,12 +4,12 @@
     "description":"ASYLUM es un videojuego de terror desarrollado en UnrealEngine 5",
     "lang":"es-ES",
     "dir":"ltr",
-    "start_url":"http://127.0.0.1:5501/index.html",
+    "start_url":"https://asylum666.netlify.app/",
     "display":"minimal-ui",
     "orientation":"vertical",
     "background_color":"black",
     "theme_color":"black",
-    "scope": "http://127.0.0.1:5501",
+    "scope": "https://asylum666.netlify.app/",
     "icons":[  
        {  
           "src":"https://res.cloudinary.com/dhysrnfsr/image/upload/v1667009284/545-5451262_asylums-logo-emblem-hd-png-download_oz7ypq.png",
