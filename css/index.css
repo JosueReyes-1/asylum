@@ -154,6 +154,7 @@ p {
     padding-left: 30px;
     padding-right: 30px;
     border-radius: 10px;
+    width: 40vh;
 }
 .boton-orden:hover{
     background-color: rgb(85, 4, 4);
@@ -161,5 +162,8 @@ p {
 @media (max-width: 450px){
     .gameplay{
         height: 100%;
+    }
+    .boton-orden{
+        width: 50vh;
     }
 }

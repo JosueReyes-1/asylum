@@ -1,6 +1,6 @@
 {  
     "name":"ASYLUM",
-    "short_name":"ASM",
+    "short_name":"Asylum",
     "description":"ASYLUM es un videojuego de terror desarrollado en UnrealEngine 5",
     "lang":"es-ES",
     "dir":"ltr",
@@ -12,19 +12,19 @@
     "scope": "https://asylum666.netlify.app/",
     "icons":[  
        {  
-          "src":"https://res.cloudinary.com/dhysrnfsr/image/upload/v1667009284/545-5451262_asylums-logo-emblem-hd-png-download_oz7ypq.png",
+          "src":"https://res.cloudinary.com/ddwojqoej/image/upload/v1669872248/fa49c92a3bffc614096bdeb46a04ec14_zx36mb.jpg",
           "sizes":"512x512",
-          "type":"image/png"
+          "type":"image/jpg"
        },
        {  
-            "src":"https://res.cloudinary.com/dhysrnfsr/image/upload/v1667009411/545-5451262_asylums-logo-emblem-hd-png-download_ilkyca.png",
+            "src":"https://res.cloudinary.com/ddwojqoej/image/upload/v1669872248/fa49c92a3bffc614096bdeb46a04ec14_zx36mb.jpg",
             "sizes":"256x256",
-            "type":"image/png"
+            "type":"image/jpg"
         },
         {  
-            "src":"https://res.cloudinary.com/dhysrnfsr/image/upload/v1667009411/545-5451262_asylums-logo-emblem-hd-png-download_ilkyca.png",
+            "src":"https://res.cloudinary.com/ddwojqoej/image/upload/v1669872248/fa49c92a3bffc614096bdeb46a04ec14_zx36mb.jpg",
             "sizes":"128x128",
-            "type":"image/png"
+            "type":"image/jpg"
         }
     ]
  }
