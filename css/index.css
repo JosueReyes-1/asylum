@@ -20,12 +20,13 @@ body {
     right: -50%;
     bottom: -50%;
     width: 200%;
-    height: 200vh;
+    height: 100vh;
     background: transparent url('http://assets.iceable.com/img/noise-transparent.png') repeat 0 0;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     animation: bg-animation .4s infinite;
     opacity: 1;
     visibility: visible;
+    
 }
 
 @keyframes bg-animation {
@@ -159,6 +160,7 @@ p {
 .boton-orden:hover{
     background-color: rgb(85, 4, 4);
 }
+
 @media (max-width: 450px){
     .gameplay{
         height: 100%;
